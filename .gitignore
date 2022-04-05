@@ -1,0 +1,7 @@
+# Various IDEs and Editors
+.vscode/
+.idea/
+
+# Backend code
+node_modules/
+
